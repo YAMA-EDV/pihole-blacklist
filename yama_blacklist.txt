@@ -37,7 +37,6 @@ alliancespectacles.com
 api.conduit.com
 api.telegram.org
 arc.msn.com
-asp
 iroflash.fr
 asp.iroflash.fr
 assbrotherhood.ru
