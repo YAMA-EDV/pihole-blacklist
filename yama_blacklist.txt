@@ -395,3 +395,39 @@ shiftspace.ro
 shirinbal.com
 tbdexpress.com
 tspars.com
+#Added 8/3/2017# Yama Industrials, Inc. taken from snort alert at 479
+# AbuseIPDB » 123.249.12.233, 123.249.12.233 was found in our database!
+
+#This IP was reported 109 times. See below for details.
+
+#ISP	Wonten Network Ltd.
+#Usage Type	Data Center/Web Hosting/Transit
+#Domain Name	cdnzz.net
+#Country	 China
+#City	Guangzhou, Guangdong
+cdnzz.net
+
+#163.172.94.184 was found in our database!
+
+#This IP was reported 12 times. See below for details.
+
+#ISP	Online S.A.S.
+#Usage Type	Data Center/Web Hosting/Transit
+#Hostname	163-172-94-184.rev.poneytelecom.eu
+#Domain Name	free.fr
+#Country	 France
+#City	Paris, Ile-de-France
+free.fr
+poneytelecom.eu
+
+#89.38.99.23 was found in our database!
+
+#This IP was reported 7 times. See below for details.
+
+#ISP	WorldStream B.V.
+#Usage Type	Data Center/Web Hosting/Transit
+#Hostname	mail32.power-gt.com
+#Domain Name	worldstream.nl
+#Country	 Netherlands
+#City	Naaldwijk, Zuid-Holland
+power-gt.com
