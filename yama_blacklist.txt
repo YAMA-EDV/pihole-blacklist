@@ -431,3 +431,17 @@ poneytelecom.eu
 #Country	 Netherlands
 #City	Naaldwijk, Zuid-Holland
 power-gt.com
+
+#Added 8/7/2017# Yama Industrials, Inc. taken from snort alert at 479
+#195.22.26.248 was found in our database!
+
+#This IP was reported 15 times. See below for details.
+
+#ISP	Claranet Portugal Telecomunicacoes S.A.
+#Usage Type	Fixed Line ISP
+#Hostname	248.192/26.26.22.195.in-addr.arpa.anubisnetworks.com
+#Domain Name	clara.net
+#Country	 Portugal
+#City	Lisbon, Lisboa
+anubisnetworks.com
+clara.net
