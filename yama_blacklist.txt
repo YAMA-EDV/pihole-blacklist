@@ -581,3 +581,26 @@ kampvelebit.com
 #Added 8/15/2017# a nice list today
 Phishing banking campaign - thehackernews.com
 lloydsbacs.co.uk
+
+##via the thehackernews.com# bank software backdoor
+#Dubbed ShadowPad, the secret backdoor gave attackers complete control over networks hidden 
+#behind legit cryptographically signed software sold by NetSarang—used by hundreds of banks,
+#media firms, energy companies, and pharmaceutical firms, telecommunication providers, 
+#transportation and logistics and other industries—for 17 days starting last month.
+#The affected NetSarang's software packages are:
+#Xmanager Enterprise 5.0 Build 1232
+#Xmanager 5.0 Build 1045
+#Xshell 5.0 Build 1322
+#Xftp 5.0 Build 1218
+#Xlpd 5.0 Build 1220
+ribotqtonut.com
+nylalobghyhirgh.com
+jkvmdmjyfcvkf.com
+bafyvoruzgjitwr.com
+xmponmzmxkxkh.com
+tczafklirkl.com
+notped.com
+dnsgogle.com
+operatingbox.com
+paniesx.com
+techniciantext.com
