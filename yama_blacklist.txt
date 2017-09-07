@@ -2244,3 +2244,6 @@ web.vortex.data.microsoft.com
 wes.df.telemetry.microsoft.com
 win10.ipv6.microsoft.com
 www.msedge.net
+#Added 9/5/2017 - trapped by our firewall at 479
+#Malware Distribution Point - 46.165.222.110
+tnd.ecefibwja.xyz
