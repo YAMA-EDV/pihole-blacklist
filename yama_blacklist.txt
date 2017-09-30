@@ -2247,3 +2247,7 @@ www.msedge.net
 #Added 9/5/2017 - trapped by our firewall at 479
 #Malware Distribution Point - 46.165.222.110
 tnd.ecefibwja.xyz
+#Added 9/30/2017 from IDS Catch from UTM
+#United Network LLC - Moscow Russia - 88.212.201.197
+counter.yadro.ru
+exepto.ru
