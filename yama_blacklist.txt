@@ -2309,3 +2309,5 @@ zanox.tel
 zanox.us
 zxad.com
 zxad.net
+taboola.com
+taboolasyndication.com
