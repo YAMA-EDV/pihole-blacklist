@@ -2332,3 +2332,7 @@ hkdxpress.com
 reservsinb.com
 rscotlantdn.com
 santandarbn-uk.com
+#Added 12/13/2017 from @hackread
+#This Fidget spinner app is sending other apps data to Chinese server, “Background System EToys” login system.
+api.e-toys.cn
+c.appjiagu.com
