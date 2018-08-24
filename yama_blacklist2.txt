@@ -81,3 +81,19 @@ www.10Bux.nt
 www.b-u-x.net
 00bux.com
 www.00bux.com
+#Added 5/31/2018
+#cyren web security diagnostic
+www.cyren-wsd.xyz
+stmarylebone.org
+docusign.someanswers.net
+laykni.com
+nolimt.org
+morinsurface.com
+#shieldtest.com from mydigitalshield.com
+ishieldu.com
+cybrarro.com
+www.cybrarro.com
+#reddit/pi/added 8/23/2018
+iedc.fitbit.com
+e.reddit.com
+
