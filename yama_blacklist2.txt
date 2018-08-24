@@ -96,4 +96,5 @@ www.cybrarro.com
 #reddit/pi/added 8/23/2018
 iedc.fitbit.com
 e.reddit.com
+static.audienceinsights.net
 
